@@ -57,7 +57,7 @@ function calendar(){
 		 			td_d[c].bgColor = "white";
 		 			td_d[c].setAttribute = ("id");
 		 			td_d[c].id = ("id" + c);
-		 		}
+		 		}as
 		 	}
 
 		 	for(z=0; z<lastDate; z++){
